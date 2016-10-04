@@ -1,0 +1,21 @@
+{
+  "name": "koa-user-auth",
+  "version": "0.0.1",
+  "description": "auth progress",
+  "keywords": [
+    "user-auth",
+    "koa",
+    "koa2.0"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "request": "^2.75.0",
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {
+    "koa": "^1.2.4"
+  }
+}

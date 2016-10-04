@@ -83,13 +83,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.gitignore
 .idea/
-README.md
-bin/
-commit.sh
-fix.sh
-index.js
-package.json
-publish.sh
-st.sh
+
