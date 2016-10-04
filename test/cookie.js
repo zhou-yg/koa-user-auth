@@ -15,6 +15,8 @@ app.use(function *() {
 
 
   console.log(this.request);
+
+  this.body = '登录成功'
 });
 
 
